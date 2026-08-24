@@ -93,3 +93,22 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+#palestrantes {
+    text-align: center;
+}
+
+.palestrante {
+    margin: 20px;
+    display: inline-block;
+}
+
+.palestrante img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.palestrante p {
+    margin-top: 10px;
+}
