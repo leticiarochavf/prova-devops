@@ -19,5 +19,9 @@ readme: informações gerais do projeto
 img/ : imagens utilizadas no projeto
 gitgnore: arquivos que não precisam ser salvos pelo git
 
+## Como revisar mudanças
+
+Antes de juntar uma branch na main, a gente confere o que foi alterado e se está tudo funcionando certinho. Depois de revisar, fazemos o merge
+
 ## Workflow
 link: [Ver o Workflow](WORKFLOW.md)
